@@ -1,0 +1,12 @@
+{
+  "name": "stress-test",
+  "version": "1.0.0",
+  "description": "Framework rendering stress test",
+  "scripts": {
+    "dev": "pnpm run -r dev"
+  },
+  "private": true,
+  "devDependencies": {
+    "pnpm": "^6.20.3"
+  }
+}
